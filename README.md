@@ -7,4 +7,4 @@
 
 <p>Currently focusing on <strong>Python</strong> and <strong>C lang</strong>, I'm always eager to collaborate on innovative projects and connect with fellow tech enthusiasts.</p>
 
-<iframe src="https://gifer.com/embed/7LIp" width=480 height=120.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+
