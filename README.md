@@ -1,4 +1,4 @@
-Hello!
+<h1> Hello!</h1>
 
 I'm a Data Science and Artificial Intelligence enthusiast with a strong foundation in programming and mathematics. My academic journey focuses on mastering fundamental concepts like linear algebra, analytic geometry, and calculus, while simultaneously exploring the fascinating world of neural networks and machine learning.
 
